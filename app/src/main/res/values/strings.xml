@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleMediaPlayer</string>
+    <string name="playing">正在播放音乐</string>
+    <string name="noplaying">没有播放或者暂停了播放音乐</string>
+</resources>
